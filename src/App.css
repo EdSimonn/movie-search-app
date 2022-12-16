@@ -1,0 +1,12 @@
+@media(max-width: 991px) {
+
+}
+@media(max-width: 768px) {
+
+}
+@media(max-width: 400px) {
+  .middle {
+    display: flex;
+    justify-content: center;
+  }
+}

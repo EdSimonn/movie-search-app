@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @layer base {
+    .card {
+        @apply max-w-sm text-center justify-center
+    }
+}
+
+@layer components {
+    .card {
+        @apply max-w-sm text-center justify-center
+    }
+} */
